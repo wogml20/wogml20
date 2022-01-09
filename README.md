@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
+
+### 🛠 Learning Tech Stack 🛠
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white"/></a>
@@ -15,6 +17,8 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 
+
+### 🌱 Me 🌱
 
 
 <a href="https://linktr.ee/wogml20" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
